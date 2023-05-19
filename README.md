@@ -1,2 +1,1 @@
-# Sensor-de-Distra-o-
-OBJETOS INTELIGENTES CONECTADOS
+O sensor escolhido para o projeto foi o  sensor ultrassônico hc-sr04 , com ele sera capaz de tornar a notificação de perigo efetiva , assim os parametros de distancia de ameaça serão estipulados dentro do  código. 

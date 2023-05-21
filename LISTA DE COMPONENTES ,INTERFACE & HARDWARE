@@ -11,3 +11,9 @@
 
 A interface de um Arduino refere-se aos diferentes componentes e conexões físicas que permitem a interação entre o microcontrolador Arduino e outros dispositivos, como sensores, atuadores, computadores e outros periféricos. Essa interface permite que o Arduino receba informações do ambiente externo e envie comandos para controlar outros dispositivos. 
 Todos estes componentes citados acima fazem referencia a comunicação fisica  para que o funcionamento ocorra com exito. 
+
+Além desses componentes principais, existem outros componentes e recursos adicionais que podem variar de acordo com o modelo específico do Arduino, como LEDs indicadores, botões, jumpers e suportes para shields (módulos de expansão).
+
+Em resumo, o hardware de um Arduino é composto pelo microcontrolador, pinos de E/S, regulador de tensão, oscilador, conectores e interfaces, memória e outros componentes que permitem a funcionalidade e a interação com o ambiente externo.
+
+Estes componentes que integram o hadware estão citados acima. 

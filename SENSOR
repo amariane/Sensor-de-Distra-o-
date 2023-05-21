@@ -1,1 +1,14 @@
+O sensor escolhido para o projeto foi o sensor ultrassônico hc-sr04 , com ele será capaz de tornar a notificação de perigo efetiva , assim os parâmetros de distância de ameaça serão estipulados dentro do código.
+O sensor ultrassônico HC-SR04 é uma escolha popular e amplamente utilizada para protótipos de sensores de ré em veículos por várias razões:
 
+Precisão: O sensor HC-SR04 possui uma precisão relativamente alta na medição de distâncias. Ele é capaz de medir distâncias na faixa de 2 cm a 4 metros com uma resolução de aproximadamente 3 mm. Essa precisão é adequada para a detecção de objetos próximos durante a manobra de ré.
+
+Confiabilidade: O HC-SR04 é conhecido por sua confiabilidade e desempenho consistente. Ele fornece leituras estáveis e precisas na maioria das condições e ambientes, tornando-o uma opção confiável para uso em veículos.
+
+Fácil integração: O HC-SR04 é relativamente fácil de usar e integrar em um protótipo de sensor de ré. Ele possui uma interface simples, requerendo apenas alguns pinos de conexão para alimentação e comunicação com o microcontrolador do veículo. Além disso, existem bibliotecas e exemplos disponíveis para ajudar na implementação do sensor.
+
+Custo acessível: O HC-SR04 é um sensor de baixo custo em comparação com outras opções disponíveis no mercado. Isso torna a escolha do HC-SR04 atraente para projetos de protótipos e aplicações em veículos, onde a redução de custos pode ser um fator importante.
+
+Ampla disponibilidade: O HC-SR04 é um sensor amplamente disponível em lojas especializadas em eletrônica e também online. Sua popularidade significa que é fácil encontrar e adquirir o sensor quando necessário.
+
+Funcionamento simples: O sensor HC-SR04 utiliza o princípio de ecolocalização ultrassônica para medir distâncias. Ele emite um pulso ultrassônico e, em seguida, mede o tempo que leva para o pulso retornar após atingir um objeto. Essa abordagem simples de funcionamento facilita o entendimento e a utilização do sensor em projetos de protótipos.

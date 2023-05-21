@@ -6,8 +6,8 @@
  - 2 Resistores 300 ohms; 
  - 1 Buzzer; 
 - 1 Sensor de Ultrassom HC-SR04 
-- 1 comput para criação da logica em codigo , além de interagir com protocolocos TCP/IP e MQTT 
-- 1 caminhão em miniatura para demonstração física próxima à realidade porém em pequena escala assim como o arduino comporta 5V (ESTE EU MANDO IMAGEM)
+- 1 comput para criação da logica em codigo , além de interagir com protocolocos TCP/IP e MQTT
+- 1 caminhão em miniatura para demonstração física próxima à realidade porém em pequena escala assim como o arduino comporta 5V 
 
 A interface de um Arduino refere-se aos diferentes componentes e conexões físicas que permitem a interação entre o microcontrolador Arduino e outros dispositivos, como sensores, atuadores, computadores e outros periféricos. Essa interface permite que o Arduino receba informações do ambiente externo e envie comandos para controlar outros dispositivos. 
 Todos estes componentes citados acima fazem referencia a comunicação fisica  para que o funcionamento ocorra com exito. 
